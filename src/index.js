@@ -18,7 +18,12 @@ const createAnchorElement = obj => {
     newTag.classList.add('new');
     div.appendChild(newTag);
   }
-
+  if (obj.isComingUp) {
+    const newTag = document.createElement('span');
+    newTag.textContent = 'Coming Up';
+    newTag.classList.add('comingup');
+    div.appendChild(newTag);
+  }
   div.appendChild(a);
   return div;
 };

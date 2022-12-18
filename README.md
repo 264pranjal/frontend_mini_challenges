@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Frontend Mini Challenges</h1>
   <h3>Collection of frontend challenges for learning and machine coding round interviews</h3>
-  <a href="https://sadanandpai.github.io/frontend-mini-challenges/"><img src="src/cover.png" alt="web programming" width="500px" /></a>
+  <a href="https://github.com/264pranjal/frontend_mini_challenges/"><img src="src/cover.png" alt="web programming" width="500px" /></a>
 </div>
 
 <div align="center">
-  <h3><a href="https://sadanandpai.github.io/frontend-mini-challenges/">All Challenges</a></h3>
+  <h3><a href="https://github.com/264pranjal/frontend_mini_challenges/">All Challenges</a></h3>
 </div>
 
 ---
