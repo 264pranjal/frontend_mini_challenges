@@ -13,7 +13,7 @@
 All the challenges are listed below
 
 - [Analog Clock](https://264pranjal.github.io/frontend_mini_challenges/src/mc/analog-clock/)
-- [Loan Calculator](https://264pranjal.github.io/frontend_mini_challenges/tree/main/src/mc/Mortgage_Loan_Calculator)
+- [Loan Calculator](https://264pranjal.github.io/frontend_mini_challenges/src/mc/Mortgage_Loan_Calculator/)
 - [Counter]()
 - [Guess the number]()
 - [Telephone formatter]()
