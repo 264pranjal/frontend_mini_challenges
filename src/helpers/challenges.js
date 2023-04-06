@@ -3,7 +3,7 @@ export const challenges = [
   { title: 'Loan Calculator', link: 'Mortgage_Loan_Calculator' },
   { title: 'Expanding Cards', link: 'expanding_cards' },
   { title: 'Progress steps', link: 'progress_steps' },
-  { title: 'Telephone formatter', link: 'telephone-formatter', isComingUp: true },
+  { title: 'Rotating Navbar Animation', link: 'rotating-nav-animation' },
   { title: 'Light & Dark mode', link: 'light-dark-mode', isComingUp: true },
   { title: 'Toast Popup', link: 'toast-popup', isComingUp: true },
   { title: 'CSS Shapes', link: 'css-shapes', isComingUp: true },
