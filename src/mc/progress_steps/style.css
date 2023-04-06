@@ -19,9 +19,12 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  flex-wrap: wrap;
+  align-content: flex-start;
 }
 
 .container {
+  width: auto;
   text-align: center;
 }
 
