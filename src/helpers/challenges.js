@@ -2,7 +2,7 @@ export const challenges = [
   { title: 'Analog Clock', link: 'analog-clock' },
   { title: 'Loan Calculator', link: 'Mortgage_Loan_Calculator' },
   { title: 'Expanding Cards', link: 'expanding_cards' },
-  { title: 'Guess the number', link: 'guess-the-number', isComingUp: true },
+  { title: 'Progress steps', link: 'progress_steps' },
   { title: 'Telephone formatter', link: 'telephone-formatter', isComingUp: true },
   { title: 'Light & Dark mode', link: 'light-dark-mode', isComingUp: true },
   { title: 'Toast Popup', link: 'toast-popup', isComingUp: true },
